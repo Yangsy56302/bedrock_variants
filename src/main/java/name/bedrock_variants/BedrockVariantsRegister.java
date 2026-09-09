@@ -38,7 +38,7 @@ public class BedrockVariantsRegister {
 		BlockItem blockItem = new BlockItem(block, new Item.Properties().setId(itemKey).useBlockDescriptionPrefix());
 		Registry.register(BuiltInRegistries.ITEM, itemKey, blockItem);
 
-        ItemGroupEvents.modifyEntriesEvent(CreativeModeTabs.BUILDING_BLOCKS).register(content -> {
+        ItemGroupEvents.modifyEntriesEvent(CreativeModeTabs.BUILDING_BLOCKS).register((content) -> {
             content.addBefore(Blocks.BRICKS, block);
         });
 
@@ -183,7 +183,7 @@ public class BedrockVariantsRegister {
     public static final TagKey<Block> BLOCK_TAG_BEDROCK = TagKey.create(Registries.BLOCK, Identifier.fromNamespaceAndPath(BedrockVariants.MOD_ID, "bedrock"));
 
 	public static void initialize() {
-        ItemGroupEvents.modifyEntriesEvent(CreativeModeTabs.BUILDING_BLOCKS).register(content -> {
+        ItemGroupEvents.modifyEntriesEvent(CreativeModeTabs.BUILDING_BLOCKS).register((content) -> {
             content.addAfter(Blocks.CHISELED_TUFF_BRICKS, Blocks.BEDROCK);
         });
     }
