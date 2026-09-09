@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://yangsy56302.github.io/",
-		"sources": "https://github.com/Yangsy56302/bedrock-variants"
+		"sources": "https://github.com/Yangsy56302/bedrock_variants"
 	},
 	"license": "MIT",
 	"icon": "assets/bedrock_variants/icon.png",
@@ -17,9 +17,6 @@
 	"entrypoints": {
 		"main": [
 			"name.bedrock_variants.BedrockVariants"
-		],
-		"fabric-datagen": [
-          "name.bedrock_variants.client.datagen.BedrockVariantsDataGenerator"
 		]
 	},
 	"mixins": [],
