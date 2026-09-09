@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "bedrock_variants:block/polished_bedrock",
+    "side": "bedrock_variants:block/polished_bedrock",
+    "top": "bedrock_variants:block/polished_bedrock"
+  }
+}

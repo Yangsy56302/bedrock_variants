@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "bedrock_variants:block/smooth_bedrock",
+    "side": "bedrock_variants:block/smooth_bedrock_slab_side"
+  }
+}

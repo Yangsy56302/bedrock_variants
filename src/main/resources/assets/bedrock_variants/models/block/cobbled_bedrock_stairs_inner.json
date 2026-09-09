@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "bedrock_variants:block/cobbled_bedrock",
+    "side": "bedrock_variants:block/cobbled_bedrock",
+    "top": "bedrock_variants:block/cobbled_bedrock"
+  }
+}

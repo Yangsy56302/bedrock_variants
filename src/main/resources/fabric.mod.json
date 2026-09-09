@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "bedrock_variants",
+	"version": "${version}",
+	"name": "Bedrock Variants",
+	"description": "Build your house with variants of Bedrock!",
+	"authors": [
+		"Yangsy56302"
+	],
+	"contact": {
+		"homepage": "https://yangsy56302.github.io/",
+		"sources": "https://github.com/Yangsy56302/bedrock-variants"
+	},
+	"license": "MIT",
+	"icon": "assets/bedrock_variants/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"name.bedrock_variants.BedrockVariants"
+		],
+		"fabric-datagen": [
+          "name.bedrock_variants.client.datagen.BedrockVariantsDataGenerator"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

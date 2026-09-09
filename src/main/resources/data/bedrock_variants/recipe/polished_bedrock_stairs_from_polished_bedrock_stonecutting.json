@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "bedrock_variants:polished_bedrock",
+  "result": {
+    "count": 1,
+    "id": "bedrock_variants:polished_bedrock_stairs"
+  }
+}

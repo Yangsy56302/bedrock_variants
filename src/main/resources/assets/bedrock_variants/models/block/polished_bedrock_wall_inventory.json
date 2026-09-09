@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "bedrock_variants:block/polished_bedrock"
+  }
+}

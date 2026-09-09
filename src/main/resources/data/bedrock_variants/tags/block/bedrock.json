@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bedrock",
+    "bedrock_variants:bedrock_slab",
+    "bedrock_variants:bedrock_stairs",
+    "bedrock_variants:bedrock_wall",
+    "bedrock_variants:cobbled_bedrock",
+    "bedrock_variants:cobbled_bedrock_slab",
+    "bedrock_variants:cobbled_bedrock_stairs",
+    "bedrock_variants:cobbled_bedrock_wall",
+    "bedrock_variants:polished_bedrock",
+    "bedrock_variants:chiseled_bedrock",
+    "bedrock_variants:polished_bedrock_slab",
+    "bedrock_variants:polished_bedrock_stairs",
+    "bedrock_variants:polished_bedrock_wall",
+    "bedrock_variants:bedrock_bricks",
+    "bedrock_variants:cracked_bedrock_bricks",
+    "bedrock_variants:bedrock_brick_slab",
+    "bedrock_variants:bedrock_brick_stairs",
+    "bedrock_variants:bedrock_brick_wall",
+    "bedrock_variants:bedrock_tiles",
+    "bedrock_variants:cracked_bedrock_tiles",
+    "bedrock_variants:bedrock_tile_slab",
+    "bedrock_variants:bedrock_tile_stairs",
+    "bedrock_variants:bedrock_tile_wall"
+  ]
+}

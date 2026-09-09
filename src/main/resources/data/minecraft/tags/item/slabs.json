@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "bedrock_variants:bedrock_slab",
+    "bedrock_variants:cobbled_bedrock_slab",
+    "bedrock_variants:polished_bedrock_slab",
+    "bedrock_variants:bedrock_brick_slab",
+    "bedrock_variants:bedrock_tile_slab"
+  ]
+}

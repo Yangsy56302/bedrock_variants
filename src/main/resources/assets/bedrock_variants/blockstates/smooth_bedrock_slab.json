@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bedrock_variants:block/smooth_bedrock_slab"
+    },
+    "type=double": {
+      "model": "bedrock_variants:block/smooth_bedrock_slab_double"
+    },
+    "type=top": {
+      "model": "bedrock_variants:block/smooth_bedrock_slab_top"
+    }
+  }
+}

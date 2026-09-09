@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "bedrock_variants:block/cobbled_bedrock_stairs"
+  }
+}

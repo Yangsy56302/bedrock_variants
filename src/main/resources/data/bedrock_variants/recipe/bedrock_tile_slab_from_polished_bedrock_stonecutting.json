@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "bedrock_variants:polished_bedrock",
+  "result": {
+    "count": 2,
+    "id": "bedrock_variants:bedrock_tile_slab"
+  }
+}

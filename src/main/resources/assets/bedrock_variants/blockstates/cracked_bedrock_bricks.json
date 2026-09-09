@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bedrock_variants:block/cracked_bedrock_bricks"
+    }
+  }
+}

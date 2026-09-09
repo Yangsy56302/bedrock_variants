@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "bedrock_variants:block/smooth_bedrock",
+    "side": "bedrock_variants:block/smooth_bedrock_slab_side",
+    "top": "bedrock_variants:block/smooth_bedrock"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "bedrock_variants:cobbled_bedrock",
+  "result": {
+    "count": 2,
+    "id": "bedrock_variants:cobbled_bedrock_slab"
+  }
+}
