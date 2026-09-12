@@ -12,7 +12,7 @@
 		"sources": "https://github.com/Yangsy56302/bedrock_variants"
 	},
 	"license": "MIT",
-	"icon": "assets/bedrock_variants/icon.png",
+	"icon": "icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
